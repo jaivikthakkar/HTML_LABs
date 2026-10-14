@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(0, 0, 0, 0.945);
+}
+nav{
+    display: flex;
+}
+.left{
+    margin-right: 950px;
+}
+.insta_logo{
+    width: 40px;
+}
+*{
+    color: aliceblue;
+}
+
+
+
